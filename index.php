@@ -9,11 +9,11 @@
 <body>
       <form action="result.php" method="post">
         好きな名前を入れてください
-        <br>
+        <br><br>
         <input type="text" name="my_name" />
-        <br>
+        <br><br>
         1～6の中で好きな数字を入れてください
-        <br>
+        <br><br>
         <input type="number" min="1" max="6" name="number" />
         <br>
         <input type="submit" value="送信" />
